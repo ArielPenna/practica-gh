@@ -1,4 +1,4 @@
-wzson:
+on:
   workflow_dispatch:
 
 name: CreandoImagen
